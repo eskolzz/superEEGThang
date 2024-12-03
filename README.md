@@ -1,14 +1,13 @@
-#superEEGThang 
+# superEEGThang 
 
-<br> 
 ### used for my 2024 science fair project
 
-#installation:
+# installation:
 
-download files
+1: download files
 <br>
-extract files
+2: extract files
 <br>
-open sln
+3: open sln
 <br>
-have supa dupa fun!
+4: have supa dupa fun!
